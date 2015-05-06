@@ -49,7 +49,11 @@
 			new pic({
 				top : 270, left : 500, width : 85,height : 95, href:'http://habrahabr.ru/users/ivanych/topics',
 				img : { src : 'img/habr.png', offsetTop :0, offsetLeft: 70}
-			})
+			}),
+            new pic({
+                top : 390, left : 280, width : 85,height : 85, href:'https://metacpan.org/author/IVANYCH',
+                img : { src : 'img/metacpan.png', offsetTop :0, offsetLeft: 150}
+            })
 
 		];
 		
