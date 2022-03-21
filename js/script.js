@@ -23,10 +23,6 @@
 				img : { src : 'img/github.jpg', offsetTop : 50, offsetLeft: 60}
 			}),
 			new pic({
-				top : 72, left : 600, width :80,height : 80, href:'http://instagram.com/mivanych',
-				img : { src : 'img/instagram.png', offsetTop :5, offsetLeft:85}
-			}),
-			new pic({
 				top : 150, left : 60, width : 60,height : 100, href:'https://plus.google.com/106733983590951873129/posts',
 				img : { src : 'img/gplus.jpg', offsetTop : 10, offsetLeft: 100}
 			}),
